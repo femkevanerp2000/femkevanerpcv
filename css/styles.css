@@ -2,13 +2,15 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&family=Shadows+Into+Light&display=swap');
 /* Styles for the body */
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&family=Shadows+Into+Light&display=swap');
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	font-family: 'Rubik Iso', cursive;
+font-family: 'Shadows Into Light', cursive;
+	color: #002CCF;
+	background-color: #ffffff;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -19,11 +21,11 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ffffff;
 }
 
 .resume-aside {
-	background-color: #6DB8FF;
+	background-color: #25DBFF;
 }
 
 /* Styles for lists in the document */
